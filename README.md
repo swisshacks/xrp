@@ -1,11 +1,20 @@
-# XRP Challenge
-# [Descriptive Title of the Challenge]
+# XRP Ledger Challenge
+# Evolving Finance with blockchain
 
 Case Introduction:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. Donec euismod diam sit amet fermentum imperdiet. Donec justo mi, lacinia sed dolor vel, convallis tincidunt ligula. Duis suscipit ante tellus, lacinia venenatis lorem suscipit in. Sed ac ipsum tincidunt, consequat est ut, molestie nunc. Donec efficitur risus ut erat luctus, id congue odio rhoncus. Curabitur neque lorem, maximus at est sit amet, semper vehicula libero. Aliquam a fermentum leo. Mauris rhoncus lorem sed lorem auctor, eu tempus risus ultrices. Proin condimentum sem at commodo congue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque dapibus, tortor in feugiat varius, sem purus aliquet quam, vel volutpat lorem nibh eu lacus. Donec massa ligula, auctor vitae erat eget, vulputate sagittis nisl. Praesent iaculis, lectus ut volutpat interdum, eros odio vestibulum eros, eget porta tellus lectus vitae massa.
+XRP Ledger addresses the need for accessible platform for the  issuance and management of digital assets.
 
-Morbi vitae diam at diam pellentesque tempor. Vivamus porttitor turpis quis felis accumsan, ut imperdiet dui tincidunt. Aenean a est dapibus, dictum velit at, eleifend erat. Proin ut faucibus dolor. Vestibulum pulvinar magna at consectetur posuere. Sed in dolor id enim tempus malesuada. Pellentesque nec dignissim erat, ut feugiat turpis.
+Utilize XRPL and/or its new EVM Sidechain to develop a finance app. The app may encompass decentralized finance (DeFi), such as decentralized exchanges, lending, etc., or focus on enhancing payment systems with solutions for cross-border transactions, micropayments, tokenized payments, and digital wallets. Additionally, the solution may explore areas such as insurance technology (InsurTech), regulatory technology (RegTech), asset management, financial inclusion, personal finance tools, supply chain finance, crowdfunding, digital identity, sustainable finance, and risk management within the app
+
+What is the current problem?
+* The world of finance needs more speed, accessibility and reliability . The objective of the challenge is to rethink financial services leveraging XRP Ledger
+
+Who are the users of this solution?
+* Open to all audiences and up to the project to decide
+
+## Expected Outcome:
+Prototype enabling financial transactions using XRP Leder or the EVM Sidechain
 
 ## The Pitch:
 
@@ -17,16 +26,21 @@ Insert Deep Dive Slides here
 
 ## Further Information:
 
-Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus semper dui semper ante condimentum commodo. Sed eget odio ac odio rutrum viverra eget ut dui. Sed scelerisque sem sit amet auctor gravida. Curabitur auctor urna quis lacus tempus luctus. Phasellus dictum erat sit amet nulla commodo egestas. Suspendisse potenti. Duis quis justo ut quam mollis venenatis vel ut ipsum. Integer ornare, neque ut aliquam convallis, odio eros rutrum quam, non pharetra turpis nisl ac arcu. Fusce in nulla tempor, semper nisi eu, sollicitudin est.
+Insert any additional information here 
 
 ## Resources:
+Github XRPLF
 
-Lorem ipsum dolor sit amet
-consectetur adipiscing elit
-Judging Criteria:
+## Judging Criteria:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. Donec euismod diam sit amet fermentum imperdiet. Donec justo mi, lacinia sed dolor vel, convallis tincidunt ligula. Duis suscipit ante tellus, lacinia venenatis lorem suscipit in. Sed ac ipsum tincidunt, consequat est ut, molestie nunc. Donec efficitur risus ut erat luctus, id congue odio rhoncus. Curabitur neque lorem, maximus at est sit amet, semper vehicula libero. Aliquam a fermentum leo. Mauris rhoncus lorem sed lorem auctor, eu tempus risus ultrices. Proin condimentum sem at commodo congue.
+* Creativity (30%)
+* Visual design and product execution (40%)
+* Feasibility (30%)
+
 
 ## Point of Contact:
 
 Name, Name, or Name will be glad to answer your questions during the Deep Dive. We’ll also be available on WhatsApp.
+
+## Prize:
+Opportunity to present the solution  to Ripple executives!
