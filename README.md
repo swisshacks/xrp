@@ -41,7 +41,7 @@ Github XRPLF
 
 ## Point of Contact:
 
-Name, Name, or Name will be glad to answer your questions during the Deep Dive. We’ll also be available on WhatsApp.
+Marco Neri will be glad to answer your questions during the Deep Dive. We’ll also be available on WhatsApp. You can also join the conversation on discord https://discord.com/invite/xrpl
 
 ## Prize:
 Opportunity to present the solution  to Ripple executives!
