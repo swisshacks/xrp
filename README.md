@@ -30,13 +30,14 @@ Insert Deep Dive Slides here
 Insert any additional information here 
 
 ## Resources:
-Github XRPLF
+ XRPL Documentation https://xrpl.org/
+ EVM Sidechain and bridge Documentation https://opensource.ripple.com/
 
 ## Judging Criteria:
 
 * Creativity (30%)
 * Visual design and product execution (40%)
-* Feasibility (30%)
+* Feasibility and Potential (30%)
 
 
 ## Point of Contact:
