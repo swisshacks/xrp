@@ -42,7 +42,7 @@ Insert any additional information here
 
 ## Point of Contact:
 
-Marco Neri will be glad to answer your questions during the Deep Dive. We’ll also be available on WhatsApp. You can also join the conversation on discord https://discord.com/invite/xrpl
+Marco Neri will be glad to answer your questions during the Deep Dive. We’ll also be available on WhatsApp. 
 
 ## Prize:
 Opportunity to present the solution  to Ripple executives!
