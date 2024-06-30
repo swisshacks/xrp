@@ -53,7 +53,7 @@ Insert Pitchdeck here
 ![Demo Video of the dApp Prototype](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/DeepDive/Rental%20Deposit%20Demo.gif)
 
 Further Devlopment:
-- Takeover Protocol via AR
+- [Takeover Protocol via AR](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/DeepDive/AR%20Takeover%20Protocol.mp4)
 - B2B Solution for Banks
 
 ## Further Information:
