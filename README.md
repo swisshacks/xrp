@@ -18,9 +18,13 @@ Prototype enabling financial transactions using XRP Leder or the EVM Sidechain
 
 ## The Team:
 [Aissatel Amet ](https://www.linkedin.com/in/aissatel-amet-438923101/)
+
 [Andrew Burrows](https://www.linkedin.com/in/andrew-burrows-ch/)
+
 [Ibrahim Oztas](https://www.linkedin.com/in/ibrahimoztas/)
+
 [Fabian Stauffer](https://www.linkedin.com/in/fabianstauffer/)
+
 [Zaniyar Jahany](https://www.linkedin.com/in/zaniyar-jahany-a5224387/)
 
 ## What we created:
