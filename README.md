@@ -51,6 +51,10 @@ Insert Pitchdeck here
 ![Post-It Wall](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/DeepDive/Post-It%20Wall.jpg)
 
 ![Demo Video of the dApp Prototype](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/DeepDive/Rental%20Deposit%20Demo.gif)
+![Demo Video of the dApp Prototype](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/UIUX/GifAR1.gif)
+![Demo Video of the dApp Prototype](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/UIUX/GifAR2.gif)
+
+
 
 [UIUX](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/tree/main/UIUX)
 
