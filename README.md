@@ -22,15 +22,14 @@ Insert Pitchdeck here
 
 ## Deep Dive Slides:
 
-Insert Deep Dive Slides here
+![Demo Video of the dApp Prototype](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/DeepDive/Rental%20Deposit%20Demo.gif)
+
 
 ## Further Information:
 
 [SmartContract of the Rental Deposit Prototype](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/dApp/contracts/RentalDeposit.sol)
 
 [dApp of the Rental Deposit Prototype](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/dApp/index.html)
-
-Insert any additional information here 
 
 ## Resources:
  XRPL Documentation https://xrpl.org/
