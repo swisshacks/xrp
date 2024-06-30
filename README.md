@@ -25,9 +25,9 @@ MOVE IN
 3. Landlord can verify the status of the deposit through the dApp
 
 MOVE OUT
-4. Landlord enters the shares for the payout
-5. Tenant signs the contract as well if he agrees
-6. Contract pays out the amounts accoriding to the shares back to the landlord and tenant
+1. Landlord enters the shares for the payout
+2. Tenant signs the contract as well if he agrees
+3. Contract pays out the amounts accoriding to the shares back to the landlord and tenant
 
 ## The Pitch:
 
