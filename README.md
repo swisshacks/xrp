@@ -22,6 +22,10 @@ Insert Pitchdeck here
 
 ## Deep Dive Slides:
 
+![Lean Canvas](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/DeepDive/Lena%20Canvas.jpg)
+
+![Post-It Wall](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/DeepDive/Post-It%20Wall.jpg)
+
 ![Demo Video of the dApp Prototype](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/DeepDive/Rental%20Deposit%20Demo.gif)
 
 
