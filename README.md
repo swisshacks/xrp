@@ -16,6 +16,19 @@ Who are the users of this solution?
 ## Expected Outcome:
 Prototype enabling financial transactions using XRP Leder or the EVM Sidechain
 
+## What we created:
+During the last 48 hours we worked on the topic of Rental Deposit Contracts on the XRPL EVM Sidechain Testnet. The prototype can be deployed to any EVM-compatible blockchain. The dApp allows to interact with the Smart Contract in the role as tenant and landlord.
+
+MOVE IN
+1. Landlord deploys contract by entering the public key of the tenant and defining how much the rental deposit has to be
+2. Tenant connects his wallet to the dApp and deposits the required amount
+3. Landlord can verify the status of the deposit through the dApp
+
+MOVE OUT
+4. Landlord enters the shares for the payout
+5. Tenant signs the contract as well if he agrees
+6. Contract pays out the amounts accoriding to the shares back to the landlord and tenant
+
 ## The Pitch:
 
 Insert Pitchdeck here
