@@ -56,7 +56,7 @@ TENANT MOVES OUT
 ![Demo Video of the dApp Prototype](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/UIUX/GifAR2.gif)
 ### Digital Twin of Property:
 ![Demo Video of the dApp Prototype](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/UIUX/Scan11.gif)
-![Demo Video of the dApp Prototype](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/UIUX/Scan22.gif)
+![Demo Video of the dApp Prototype](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/UIUX/Scann22.gif)
 
 
 
