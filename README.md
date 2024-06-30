@@ -16,6 +16,13 @@ Who are the users of this solution?
 ## Expected Outcome:
 Prototype enabling financial transactions using XRP Leder or the EVM Sidechain
 
+## The Team:
+[Aissatel Amet ](https://www.linkedin.com/in/aissatel-amet-438923101/)
+[Andrew Burrows](https://www.linkedin.com/in/andrew-burrows-ch/)
+[Ibrahim Oztas](https://www.linkedin.com/in/ibrahimoztas/)
+[Fabian Stauffer](https://www.linkedin.com/in/fabianstauffer/)
+[Zaniyar Jahany](https://www.linkedin.com/in/zaniyar-jahany-a5224387/)
+
 ## What we created:
 During the last 48 hours we worked on the topic of Rental Deposit Contracts on the XRPL EVM Sidechain Testnet. The prototype can be deployed to any EVM-compatible blockchain. The dApp allows to interact with the Smart Contract in the role as tenant and landlord. Additionally we created screens of a possible UI (webapp) in Figma.
 
