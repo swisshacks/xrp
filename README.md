@@ -51,8 +51,12 @@ TENANT MOVES OUT
 ![Post-It Wall](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/DeepDive/Post-It%20Wall.jpg)
 
 ![Demo Video of the dApp Prototype](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/DeepDive/Rental%20Deposit%20Demo.gif)
+### Damage tracking in AR:
 ![Demo Video of the dApp Prototype](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/UIUX/GifAR1.gif)
 ![Demo Video of the dApp Prototype](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/UIUX/GifAR2.gif)
+### Digital Twin of Property:
+![Demo Video of the dApp Prototype](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/UIUX/Scan11.gif)
+![Demo Video of the dApp Prototype](https://github.com/Kryptologe/SwissHacks2024---THE-KEYS/blob/main/UIUX/Scan22.gif)
 
 
 
